@@ -1,5 +1,7 @@
 package one.digitalInnovation.basecamp;
 
+import one.digitalinnovation.basecamp.Quadrilatero;
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -25,7 +27,11 @@ public class Main {
 		Emprestimo.calcular(1000,5);
 		
 		
-		
+		//Quadrilatero
+		System.out.println("Exercicio quadrilatero");
+		Quadrilatero.area(3);
+		Quadrilatero.area(5,5);
+		Quadrilatero.area(7, 8, 9);
 		
 		
 		
