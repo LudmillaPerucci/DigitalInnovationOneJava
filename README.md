@@ -1,6 +1,4 @@
 
-° Java 👩🏻‍💻
-
 ° Material elaborado no curso de Java no Curso da Digital Innovation One  📚.
 
 🛠 Tecnologias utilizadas 💻:
